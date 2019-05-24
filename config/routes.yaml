@@ -1,0 +1,3 @@
+#index:
+#    path: /vgemay/blog
+#    controller: App\Controller\DefaultController::index
